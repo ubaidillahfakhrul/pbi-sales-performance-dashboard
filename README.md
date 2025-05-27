@@ -1,5 +1,5 @@
 # 📁 Project Structure
-'''
+```
 📁 root/
 ├── 📊 image/
 │   ├── dash1.GIF
@@ -10,7 +10,7 @@
 │   └── GlobalSuperStore.rar
 └── 📁 dashboard/
     └── dashboard.pbix
-'''
+```
 
 ---
 # 📊 Global Sales & Profitability Dashboard
@@ -21,9 +21,9 @@ Welcome to the Global Sales Dashboard project! This dashboard visualizes sales p
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Preview 1](./image/dash1.png)
-![Dashboard Preview 2](./image/dash2.png)
-![Dashboard Preview 3](./image/dash3.png)
+[Dashboard Preview 1](https://github.com/ubaidillahfakhrul/pbi-sales-performance-dashboard/blob/main/image/dash1.gif)
+[Dashboard Preview 2](https://github.com/ubaidillahfakhrul/pbi-sales-performance-dashboard/blob/main/image/dash2.gif)
+[Dashboard Preview 3](https://github.com/ubaidillahfakhrul/pbi-sales-performance-dashboard/blob/main/image/dash3.gif)
 
 ---
 
