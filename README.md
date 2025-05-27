@@ -1,3 +1,18 @@
+# 📁 Project Structure
+'''
+📁 root/
+├── 📊 image/
+│   ├── dash1.GIF
+│   ├── dash2.GIF
+│   └── dash3.GIF
+├── 📄 README.md
+├── 📂 data/
+│   └── GlobalSuperStore.rar
+└── 📁 dashboard/
+    └── dashboard.pbix
+'''
+
+---
 # 📊 Global Sales & Profitability Dashboard
 
 Welcome to the Global Sales Dashboard project! This dashboard visualizes sales performance, profitability trends, product sub-categories, and shipping modes to help stakeholders make informed decisions.
@@ -6,8 +21,9 @@ Welcome to the Global Sales Dashboard project! This dashboard visualizes sales p
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Preview 1](./images/1.png)
-![Dashboard Preview 2](./images/2.png)
+![Dashboard Preview 1](./image/dash1.png)
+![Dashboard Preview 2](./image/dash2.png)
+![Dashboard Preview 3](./image/dash3.png)
 
 ---
 
