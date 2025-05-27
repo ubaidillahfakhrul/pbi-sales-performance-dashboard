@@ -21,9 +21,10 @@ Welcome to the Global Sales Dashboard project! This dashboard visualizes sales p
 
 ## 🖼️ Dashboard Preview
 
-[Dashboard Preview 1](https://github.com/ubaidillahfakhrul/pbi-sales-performance-dashboard/blob/main/image/dash1.gif)
-[Dashboard Preview 2](https://github.com/ubaidillahfakhrul/pbi-sales-performance-dashboard/blob/main/image/dash2.gif)
-[Dashboard Preview 3](https://github.com/ubaidillahfakhrul/pbi-sales-performance-dashboard/blob/main/image/dash3.gif)
+![Dashboard Preview 1](https://github.com/ubaidillahfakhrul/pbi-sales-performance-dashboard/raw/main/image/dash1.gif)
+![Dashboard Preview 2](https://github.com/ubaidillahfakhrul/pbi-sales-performance-dashboard/raw/main/image/dash2.gif)
+![Dashboard Preview 3](https://github.com/ubaidillahfakhrul/pbi-sales-performance-dashboard/raw/main/image/dash3.gif)
+
 
 ---
 
